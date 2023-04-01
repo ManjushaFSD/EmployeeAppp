@@ -6,7 +6,7 @@ import EmployeeForm from './components/EmployeeForm';
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename='EmployeeAppp'>
       
       
       <Routes>
