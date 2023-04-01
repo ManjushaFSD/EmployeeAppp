@@ -14,7 +14,7 @@ function App() {
 
 
         <Route exact path ="/" element = {<Home/>} />
-        <Route exact path ="/form" element = {<EmployeeForm/>} />
+        <Route exact path ="form" element = {<EmployeeForm/>} />
       </Routes>
       
       
